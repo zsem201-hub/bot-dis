@@ -1,0 +1,11 @@
+run = "python main.py"
+language = "python3"
+
+[nix]
+channel = "stable-23_11"
+
+[env]
+PYTHONUNBUFFERED = "1"
+
+[deployment]
+run = ["python", "main.py"]
