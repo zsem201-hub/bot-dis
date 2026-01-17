@@ -1,0 +1,154 @@
+-- //////////////////////////////////////////////////////////////////
+-- //  _                  _____                     _
+-- // | |   _   _  __ _  / ____|_   _  __ _ _ __ __| |
+-- // | |  | | | |/ _` || |  __| | | |/ _` | '__/ _` |
+-- // | |__| |_| | (_| || |_|_ | |_| | (_| | | | (_| |
+-- // |_____\__,_|\__,_| \_____|\__,_|\__,_|_|  \__,_|
+-- //
+-- // LuaGuard Obfuscator v3.0
+-- // Preset: Maximum Security
+-- // ID: IE506QIB
+-- // Date: 2026-01-17
+-- // Roblox Executor Compatible
+-- //////////////////////////////////////////////////////////////////
+do
+local _cfkey = 274
+if _cfkey ~= 274 then return end
+local _dead25 = nil
+local _dead25 = nil
+if false then local _ = 0 end
+local _dead25 = nil
+if getgenv().UHLoaded then
+pcall(function() getgenv().UH:Destroy() end)
+pcall(function() game:GetService(string.char(0x43,(82+29),(9+105),(43+58),(47+24),(45+72),(3*35))):FindFirstChild(string.char((126-44),(54+43),(11*11),0x66,(3*35),0x65,0x6C,(2*50))):Destroy() end)
+getgenv().UH, getgenv().UHCore, getgenv().UHLoaded = nil, nil, nil
+task.wait(0.3)
+end
+getgenv().UHLoaded = true
+print(string.char(0x3D,0x3D,0x3D,0x20,(106-21),(24+52),(133-49),0x49,(12+65),(9+56),(2*42),(3*23),(131-99),(101-29),(5*17),(86-20),(2*16),(87-11),(108-29),(5*13),(78-10),0x45,0x52,(5+27),(96-10),0x31,0x30,(2*23),(3*17),(116-84),0x53,0x54,(57+8),(21+61),(17+67),(86-13),(2*39),(60+11),(110-78),(51+10),(70-9),(64-3)))
+local _L0x0000 = {
+CU = string.char((2*52),(68+48),0x74,(2*56),(174-59),(2*29),(146-99),(1+46),0x70,(154-57),(5*23),(214-98),0x65,(20+78),(92+13),(31+79),(2*23),(68+31),0x6F,0x6D,(43+4),0x72,(148-51),(7*17),(115-68),0x68,(180-98),(2*55),0x43,(3*27),(163-41),(134-49),0x71),
+}
+local _L0x0001, TS, PL, CG, SG = game:GetService(string.char((25+47),(2*58),(203-87),(168-56),(27+56),(138-37),(173-59),(44+74),(84+21),(70+29),(169-68))), game:GetService(string.char(0x54,(47+72),0x65,(162-61),(171-61),0x53,(110-9),(133-19),0x76,(78+27),0x63,(195-94))), game:GetService(string.char((128-48),(103+5),(193-96),0x79,0x65,(180-66),(5*23))), game:GetService(string.char((150-83),0x6F,(169-55),(173-72),0x47,(3*39),0x69)), game:GetService(string.char(0x53,(173-57),(143-46),(139-25),(2*58),(50+51),(6+108),0x47,(128-11),(3*35)))
+local _L0x0002 = PL.LocalPlayer
+local function SN(_P0x0013, _P0x0014, _P0x0015) pcall(function() SG:SetCore(string.char((97-14),0x65,(2*55),0x64,(165-87),0x6F,(74+42),(18+87),0x66,0x69,(193-94),(54+43),0x74,(129-24),0x6F,(129-19)), {Title = _P0x0013 or string.char((89-4),(171-63),(119-3),(195-90),0x6D,(25+72),(122-6),0x65,0x20,(2*36),(87+30),(19+79)), Text = _P0x0014 or "", Duration = _P0x0015 or 5}) end) end
+local function LH()
+print(string.char((94-33),0x3D,(18+43),(2*16),0x4C,0x4F,(5*13),(22+46),(38+35),(143-65),(33+38),(51-19),(20+52),0x55,(2*33),(9+23),(122-61),(24+37),(80-19)))
+local _L0x0003 = getgenv().UHCore
+if not _L0x0003 then
+print(string.char(0x3D,(140-79),0x3D,(30+2),(159-83),(72+7),(19+46),(2*34),73,(20+58),(66+5),(117-85),(156-89),(104-25),(2*41),(151-82),(33-1),0x46,(90-8),(52+27),0x4D,(20+12),0x55,(114-32),0x4C,(2*16),0x3D,(115-54),0x3D))
+local _L0x0004, err = pcall(function() loadstring(game:HttpGet(_L0x0000.CU))() end)
+if not _L0x0004 then warn(string.char(0x43,0x6F,(116-2),(44+57),0x20,0x4C,(3*37),0x61,(2*50),0x20,0x45,0x72,0x72,0x6F,(189-75),0x3A), err); SN(string.char((123-38),(145-37),(2*58),(72+33),(7+102),(39+58),(2*58),(138-37),(12+20),(89-17),(149-32),(2*49)), string.char(0x46,0x61,(3*35),(26+82),(51+50),(2*50),0x20,(36+80),(3*37),(117-85),(96+12),(70+41),(128-31),(138-38),(67-35),(3*33),(41+70),(119-5),0x65,(3*11)), 5); return end
+task.wait(0.5)
+_L0x0003 = getgenv().UHCore
+if not _L0x0003 then warn(string.char((18+49),(178-67),0x72,(197-96),(1+31),(75+35),0x6F,(211-95),0x20,(19+83),(113-2),(3*39),(2*55),0x64)); SN(string.char((78+7),0x6C,(2*58),0x69,(166-57),0x61,(62+54),0x65,(8+24),(8+64),(77+40),0x62), string.char((93-26),0x6F,(2*57),0x65,(107-75),(143-33),(191-80),(1+115),(2*16),(2*51),(3*37),(3*39),0x6E,(2*50),(3*11)), 5); return end
+end
+print(string.char(0x3D,0x3D,(64-3),(16+16),(113-46),(175-96),(68+14),(55+14),0x20,0x4C,(28+51),(89-24),(109-41),(3*23),(2*34),(2*16),(25+36),(31+30),0x3D))
+task.wait(0.2)
+local _L0x0005 = _L0x0003.Settings
+local _L0x0006
+local _L0x0004, err = pcall(function() _L0x0006 = loadstring(game:HttpGet(string.char(0x68,(11+105),(2*58),(72+40),(26+89),(146-88),(103-56),(41+6),(147-32),(3*35),(128-14),(116-11),(64+53),(174-59),(2*23),(131-22),(96+5),(154-44),(3*39),0x2F,(27+87),(120-23),0x79,0x66,0x69,(171-70),(22+86),0x64)))() end)
+if not _L0x0004 or not _L0x0006 then warn(string.char((2*41),(169-72),(163-42),(109-7),(111-6),(178-77),(99+9),(2*50),(24+8),0x45,(147-33),(2*57),0x6F,(2*57),0x3A), err); SN(string.char((86-1),0x6C,(182-66),0x69,(193-84),(134-37),(195-79),(68+33),0x20,(53+19),(113+4),(2*49)), string.char((2*35),0x61,(182-77),(40+68),(47+54),(43+57),(2*16),0x74,(58+53),(130-98),0x6C,(3*37),(96+1),(129-29),(28+4),(8+77),(83-10),(3*11)), 5); return end
+print(string.char((5+56),(17+44),(149-88),(113-81),0x52,(97-32),0x59,0x46,(103-30),(30+39),(75+1),(2*34),0x20,(155-79),(112-33),(18+47),0x44,(132-63),0x44,(49-17),0x3D,(39+22),(33+28)))
+_L0x0006.Notify = function() end
+local _L0x0007 = _L0x0006:CreateWindow({Name = string.char((54+31),(2*54),(2*58),(29+76),0x6D,0x61,0x74,0x65,(96-64),(157-85),(3*39),(73+25),0x20,(156-70),0x31,(34+14),(12+20),0x7C,(112-80),0x54,0x6F,(97+8),(193-83),0x67,0x44,(84-17)), LoadingTitle = string.char((66+19),(100+8),0x74,(117-12),(105+4),(175-78),(2*58),(17+84),(19+13),(143-71),0x75,0x62), LoadingSubtitle = string.char((2*49),(8+113),(2*16),(150-66),0x6F,0x69,(2*55),(202-99),(2*34),(107-40)), ConfigurationSaving = {Enabled = false}, KeySystem = false})
+getgenv().UH = _L0x0007
+local _L0x0008 = _L0x0007:CreateTab("ESP", 4483362458)
+_L0x0008:CreateSection(string.char((173-93),0x6C,(193-96),(93+28),0x65,(2*57),0x20,(81-12),(58+25),(2*40)))
+_L0x0008:CreateToggle({Name = string.char((3*25),0x69,(75+33),(165-57),(139-38),(213-99),(117-85),0x45,(61+22),(2*40)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartKillerESP() else _L0x0003.StopKillerESP() end end) end})
+_L0x0008:CreateToggle({Name = string.char((115-32),(3*39),(194-80),(83+35),0x69,(210-92),0x6F,0x72,(2*16),(105-36),(116-33),(2*40)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartSurvivorESP() else _L0x0003.StopSurvivorESP() end end) end})
+_L0x0008:CreateSection(string.char((101-22),0x62,(2*53),0x65,(1+98),(2*58),(115-83),(134-65),0x53,0x50))
+_L0x0008:CreateToggle({Name = string.char(0x47,(124-23),0x6E,(114-13),(2*57),0x61,(2*58),(37+74),(7+107),(12+20),(3*23),0x53,(74+6)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartGenESP() else _L0x0003.StopGenESP() end end) end})
+_L0x0008:CreateToggle({Name = string.char((36+44),(17+80),0x6C,(138-30),0x65,0x74,(8+24),(4+65),(59+24),0x50), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartPalletESP() else _L0x0003.StopPalletESP() end end) end})
+_L0x0008:CreateSection(string.char((18+51),(36+47),0x50,(2*16),(176-93),(26+75),(2*58),(38+78),(176-71),(95+15),(145-42),0x73))
+_L0x0008:CreateSlider({Name = string.char((122-52),(77+28),(81+27),(2*54),(28+4),(22+62),(135-21),(114-17),(204-94),(58+57),(194-82),0x61,(55+59),0x65,(116-6),0x63,(11*11)), Range = {0, 1}, Increment = 0.1, CurrentValue = 0.85, Callback = function(_P0x0016) pcall(function() _L0x0003.SetESPFillTransparency(_P0x0016) end) end})
+_L0x0008:CreateSlider({Name = string.char((11+68),(3*39),(74+42),(2*54),0x69,0x6E,(111-10),(28+4),(2*42),(152-38),0x61,(13+97),(5*23),(192-80),(24+73),(11+103),(45+56),(90+20),(163-64),(33+88)), Range = {0, 1}, Increment = 0.1, CurrentValue = 0.5, Callback = function(_P0x0016) pcall(function() _L0x0003.SetESPOutlineTransparency(_P0x0016) end) end})
+local _L0x0009 = _L0x0007:CreateTab(string.char((152-69),(208-91),(38+76),(121-3),(193-88),(2*59),(138-27),(2*57)), 4483362458)
+_L0x0009:CreateSection(string.char((108-43),(3*39),(11+105),(3*37),(9+23),(164-99),(10+89),0x74,(101+4),0x6F,(122-12),0x73))
+_L0x0009:CreateToggle({Name = string.char((103-38),(161-44),(46+70),(24+87),0x20,(45+26),(177-76),(2*55),(72+29),0x72,(56+41),(105+11),0x6F,(202-88),(33-1),(116-34),(156-55),0x70,(38+59),(161-56),(117-3)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartAutoRepairGen() else _L0x0003.StopAutoRepairGen() end end) end})
+_L0x0009:CreateToggle({Name = string.char((49+16),(3*39),0x74,(202-91),0x20,(2*36),(65+36),(71+26),(149-41),0x20,(2*42),0x65,0x61,0x6D,(51+58),0x61,(43+73),(132-31)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartAutoHeal() else _L0x0003.StopAutoHeal() end end) end})
+_L0x0009:CreateSection(string.char((27+42),0x6E,0x76,0x69,(2*57),(3*37),(2*55),0x6D,(15+86),(86+24),(2*58)))
+_L0x0009:CreateToggle({Name = string.char(0x4E,(3*37),(24+8),(97-27),(3*37),(167-64)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartNoFog() else _L0x0003.StopNoFog() end end) end})
+_L0x0009:CreateToggle({Name = string.char((2*35),(178-61),(2*54),(114-6),(108-10),(211-97),0x69,0x67,0x68,(2*58)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() _L0x0003.SetFullbright(_P0x0016) end) end})
+_L0x0009:CreateSection(string.char(0x50,(124-23),(92+22),0x66,0x6F,(2*57),(12+97),0x61,(2*55),(3*33),(51+50)))
+_L0x0009:CreateToggle({Name = string.char(0x41,0x6E,(2*58),(115-10),(14+31),0x4C,(121-24),0x67,0x20,(7*11),(120-9),0x64,0x65), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartAntiLag() else _L0x0003.StopAntiLag() end end) end})
+local _L0x000A = _L0x0007:CreateTab(string.char((50+25),(69+36),0x6C,0x6C,(35+66),0x72), 4483362458)
+_L0x000A:CreateSection(string.char((23+42),(213-96),(174-58),(3*37),(2*16),(74-9),0x74,0x74,(31+66),(3*33),(18+89)))
+_L0x000A:CreateToggle({Name = string.char((17+52),(2*55),0x61,0x62,(2*54),(119-18),(63-31),(35+30),(105+12),(113+3),(93+18),(89-57),(163-98),(2*58),(36+80),(144-47),(2+97),(194-87)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartAutoAttack() else _L0x0003.StopAutoAttack() end end) end})
+_L0x000A:CreateSlider({Name = string.char((146-81),(100+16),(86+30),0x61,(88+11),(56+51),0x20,(60+8),(3*35),0x73,0x74,0x61,0x6E,(197-98),(134-33)), Range = {5, (2*15)}, Increment = 1, CurrentValue = 0xF, Callback = function(_P0x0016) pcall(function() _L0x0003.SetAutoAttackDistance(_P0x0016) end) end})
+_L0x000A:CreateSlider({Name = string.char((16+49),(78+38),(123-7),(137-40),(190-91),(72+35),(2*16),(23+44),(38+73),(101+10),0x6C,(135-35),(14+97),0x77,0x6E), Range = {0.5, 5}, Increment = 0.1, CurrentValue = 1.5, Callback = function(_P0x0016) pcall(function() _L0x0003.SetAutoAttackCooldown(_P0x0016) end) end})
+_L0x000A:CreateSection(string.char((2*40),0x72,(3*37),0x74,(14+87),0x63,(2*58),(26+79),0x6F,(82+28)))
+_L0x000A:CreateToggle({Name = string.char(0x41,0x6E,(154-38),(98+7),0x2D,(2*33),(57+51),(3*35),0x6E,(67+33)), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartAntiBlind() else _L0x0003.StopAntiBlind() end end) end})
+_L0x000A:CreateSection(string.char(0x43,0x61,(18+91),0x65,(169-55),0x61,(1+31),(177-100),(145-34),(118-18),(167-66)))
+_L0x000A:CreateDropdown({Name = string.char((46+21),(41+56),0x6D,0x65,(2*57),0x61,(107-75),(2*43),0x69,(9+92),(188-69)), Options = _L0x0003.CameraModes or {string.char((2*34),(98+3),(2*51),(40+57),(194-77),(38+70),0x74), string.char((55+15),(3*35),(112+2),(5*23),(2*58),(158-78),(30+71),(14+100),(118-3),(196-85),(74+36)), string.char((62+22),(68+36),(127-22),(177-63),(2*50),(2*40),(39+62),0x72,0x73,0x6F,(188-78))}, CurrentOption = {string.char((2*34),(31+70),0x66,(191-94),(126-9),(2*54),(2*58))}, Callback = function(_P0x0017) pcall(function() if _P0x0017 and #_P0x0017 > 0 then _L0x0003.SetCameraMode(_P0x0017[1]) end end) end})
+local _L0x000B = _L0x0007:CreateTab(string.char((54+26),(71+37),0x61,(192-71),(167-66),(166-52)), 4483362458)
+_L0x000B:CreateSection(string.char(0x53,(189-77),(1+100),0x65,(93+7),(12+20),(116-50),0x6F,(184-73),(180-65),(130-14)))
+local _L0x000C = (13+3)
+pcall(function() if _L0x0003.WalkspeedSystem and _L0x0003.WalkspeedSystem.Spd then _L0x000C = _L0x0003.WalkspeedSystem.Spd end end)
+local _L0x000D = _L0x000B:CreateLabel(string.char((132-49),(94+18),(48+53),101,0x64,(91-33),(28+4)) .. _L0x000C)
+_L0x000B:CreateSlider({Name = string.char((56+27),(1+100),0x74,0x20,(179-96),(178-66),101,(94+7),(2*50)), Range = {1, (2*50)}, Increment = 1, CurrentValue = _L0x000C, Callback = function(_P0x0016)
+pcall(function()
+local _L0x000E = _L0x0003.WalkspeedSystem:SetSpeed(_P0x0016)
+if _L0x000E then _L0x000D:Set(string.char(0x53,(99+13),(190-89),0x65,(76+24),(143-85),(2+30)) .. _L0x000E) end
+end)
+end})
+_L0x000B:CreateButton({Name = string.char((109-26),(2*56),(88+13),(71+30),(2*50),(2*16),(111-66),(94-41)), Callback = function()
+pcall(function()
+local _L0x000E = _L0x0003.WalkspeedSystem:SetSpeed(_L0x0003.WalkspeedSystem.Spd - 5)
+if _L0x000E then _L0x000D:Set(string.char(0x53,(62+50),(155-54),(88+13),0x64,(2*29),(20+12)) .. _L0x000E) end
+end)
+end})
+_L0x000B:CreateButton({Name = string.char((6+77),(2*56),(158-57),(170-69),(53+47),(4+28),(11+32),0x35), Callback = function()
+pcall(function()
+local _L0x000E = _L0x0003.WalkspeedSystem:SetSpeed(_L0x0003.WalkspeedSystem.Spd + 5)
+if _L0x000E then _L0x000D:Set(string.char((104-21),(2*56),(133-32),0x65,(17+83),0x3A,(58-26)) .. _L0x000E) end
+end)
+end})
+_L0x000B:CreateToggle({Name = string.char((74-5),(2*55),0x61,(14+84),(2*54),0x65,(29+3),(41+42),(2*56),(19+82),(110-9),(71+29),0x20,(2*33),0x6F,0x6F,(5*23),(2*58)), CurrentValue = false, Callback = function(_P0x0016)
+pcall(function()
+if _P0x0016 then _L0x0003.WalkspeedSystem:Start() else _L0x0003.WalkspeedSystem:Stop() end
+end)
+end})
+_L0x000B:CreateSection(string.char((2*42),(4+97),(158-50),(71+30),(2*56),(185-74),(169-55),(59+57)))
+local _L0x000F = nil
+local _L0x0010 = _L0x000B:CreateDropdown({Name = string.char((140-57),0x65,(205-97),(175-74),(104-5),(175-59),(10+22),(149-69),0x6C,(88+9),(11*11),0x65,(2*57)), Options = _L0x0003.GetPlayerList(), Callback = function(_P0x0017) if _P0x0017 and #_P0x0017 > 0 then _L0x000F = _P0x0017[1] end end})
+_L0x000B:CreateButton({Name = string.char((133-51),(147-46),(2*51),(16+98),(192-91),(114+1),(2*52),(58-26),(2*40),(45+63),(181-84),(134-13),0x65,(3+111),(24+8),(54+22),0x69,(3+112),(53+63)), Callback = function() pcall(function() _L0x0010:Set(_L0x0003.GetPlayerList()) end) end})
+_L0x000B:CreateButton({Name = string.char(0x54,(122-21),(2*54),(43+58),0x70,0x6F,(2*57),0x74,(19+13),(188-72),(3*37),(11+21),(169-89),(2*54),(172-75),0x79,0x65,(194-80)), Callback = function() pcall(function() if _L0x000F then _L0x0003.TeleportTo(_L0x000F) end end) end})
+local _L0x0011 = _L0x0007:CreateTab("Aim", 4483362458)
+_L0x0011:CreateSection(string.char((151-67),(6+91),0x72,(45+58),(130-29),(70+46),0x20,0x53,0x65,0x74,(45+71),(65+40),(87+23),(2+101),(123-8)))
+_L0x0011:CreateDropdown({Name = string.char((2*42),(195-98),(183-69),(136-33),(196-95),0x74,(3+29),(27+55),(29+82),(143-35),(130-29)), Options = {string.char((146-77),(169-51),(99+2),(124-10),(208-87),(208-97),(109+1),0x65), string.char((113-30),(77+40),0x72,0x76,0x69,(199-81),(3*37),(8+106)), string.char((141-66),(83+22),(2*54),(151-43),(169-68),(184-70))}, CurrentOption = {string.char((3*23),(217-99),(115-14),(2*57),(66+55),(3*37),(46+64),0x65)}, Callback = function(_P0x0017) pcall(function() if _P0x0017 and #_P0x0017 > 0 then _L0x0003.AimSystem:SetMode(_P0x0017[1]) end end) end})
+_L0x0011:CreateDropdown({Name = string.char(0x54,0x61,(147-33),(59+44),(28+73),(2*58),(21+11),(2*40),(166-69),0x72,(50+66)), Options = _L0x0003.TargetParts or {"Head", "Body", string.char(0x52,(11+94),(69+34),0x68,(141-25),(69-4),0x72,0x6D), string.char(0x4C,(142-41),(164-62),0x74,(5*13),0x72,(179-70))}, CurrentOption = {"Head"}, Callback = function(_P0x0017) pcall(function() if _P0x0017 and #_P0x0017 > 0 then _L0x0003.AimSystem:SetPart(_P0x0017[1]) end end) end})
+_L0x0011:CreateSection(string.char(0x41,(3*39),0x74,(194-83),(2*16),(54+11),(100+5),(62+47)))
+_L0x0011:CreateToggle({Name = string.char((58+11),(6+104),(68+29),(2*49),0x6C,(85+16),(2*16),(5*13),0x75,(96+20),(3*37),0x20,(5*13),(3*35),0x6D), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.AimSystem:Start() else _L0x0003.AimSystem:Stop() end end) end})
+_L0x0011:CreateSlider({Name = string.char((48+17),(156-39),(99+17),(3*37),0x20,(20+45),(175-70),(79+30),(110-78),(2*34),(160-55),(12+103),(195-79),(158-61),(130-20),(3*33),0x65), Range = {(3+7), (101+49)}, Increment = 5, CurrentValue = (49+1), Callback = function(_P0x0016) pcall(function() _L0x0003.AimSystem:SetDist(_P0x0016) end) end})
+_L0x0011:CreateToggle({Name = string.char((87-11),(3*37),0x63,0x6B,(104-72),(136-69),97,(83+26),(162-61),(82+32),(128-31),(2*16),(85+31),(3*37),(109-77),(134-50),0x61,0x72,(201-98),(41+60),(92+24)), CurrentValue = true, Callback = function(_P0x0016) pcall(function() _L0x0003.AimSystem:SetLock(_P0x0016) end) end})
+_L0x0011:CreateSection(string.char(0x43,(2*57),(53+58),0x73,0x73,0x68,(99-2),(3*35),(140-26)))
+_L0x0011:CreateToggle({Name = string.char((113-44),(2*55),(125-28),0x62,0x6C,0x65,(2*16),(133-66),0x72,(3*37),(5*23),(149-34),0x68,0x61,(176-71),0x72), CurrentValue = false, Callback = function(_P0x0016) pcall(function() if _P0x0016 then _L0x0003.StartCrosshair() else _L0x0003.StopCrosshair() end end) end})
+_L0x0011:CreateDropdown({Name = string.char(0x43,(2*57),(19+92),0x73,(5*23),(40+64),(51+46),(95+10),(2*57),(131-99),(103-20),0x74,(11+110),(2*54),(69+32)), Options = _L0x0003.CrosshairTypes or {string.char((139-56),0x6E,(122-17),(148-36),(130-29),(2*57)), string.char(0x57,(143-42),0x61,(119-7),0x6F,(2*55)), "Dot"}, CurrentOption = {string.char((118-35),0x6E,(3*35),(203-91),(136-35),(2*57))}, Callback = function(_P0x0017) pcall(function() if _P0x0017 and #_P0x0017 > 0 then _L0x0003.CrosshairSystem:Style(_P0x0017[1]) end end) end})
+_L0x0011:CreateSlider({Name = string.char((61+6),0x72,0x6F,(91+24),(63+52),(2*52),0x61,0x69,(61+53),(2*16),(45+38),(174-69),(196-74),(12+89)), Range = {5, (104-54)}, Increment = 1, CurrentValue = (108-96), Callback = function(_P0x0016) pcall(function() _L0x0003.SetCrosshairSize(_P0x0016) end) end})
+_L0x0011:CreateSlider({Name = string.char((6+61),(185-71),(3+108),(72+43),(5*23),(142-38),(6+91),0x69,(2*57),(4+28),0x47,(125-28),(2*56)), Range = {0, (2*15)}, Increment = 1, CurrentValue = 6, Callback = function(_P0x0016) pcall(function() _L0x0003.SetCrosshairGap(_P0x0016) end) end})
+_L0x0011:CreateSlider({Name = string.char(0x43,(17+97),(204-93),(156-41),(5*23),(2*52),(91+6),(3*35),0x72,0x20,(57+11),(3*37),(166-50),(2*16),(9+74),(3*35),(2*61),(121-20)), Range = {1, (11+4)}, Increment = 1, CurrentValue = 3, Callback = function(_P0x0016) pcall(function() _L0x0003.SetCrosshairDotSize(_P0x0016) end) end})
+_L0x0011:CreateSlider({Name = string.char((166-99),(2*57),(126-15),0x73,(63+52),0x68,(10+87),(188-83),0x72,(11+21),(13+71),(130-26),0x69,(3*33),(100+7),(160-50),0x65,(5*23),(175-60)), Range = {1, (2*5)}, Increment = 1, CurrentValue = 2, Callback = function(_P0x0016) pcall(function() _L0x0003.SetCrosshairThickness(_P0x0016) end) end})
+local _L0x0012 = _L0x0007:CreateTab(string.char((97-14),(6+95),(2*58),(2*58),(3*35),0x6E,(154-51),0x73), 4483362458)
+_L0x0012:CreateSection(string.char((3*23),(39+44),(128-48),(76-44),0x43,0x6F,(2*54),(3*37),(166-52),(36+79)))
+_L0x0012:CreateColorPicker({Name = string.char((153-78),(3*35),(5+103),0x6C,0x65,(124-10),(2*16),(63+4),0x6F,0x6C,(114-3),(2*57)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col._L0x000A) or Color3.fromRGB((3*85),(2*40),(167-87)), Callback = function(_P0x0018) pcall(function() _L0x0003.SetKillerColor(_P0x0018); _L0x0003.RefreshESPColors() end) end})
+_L0x0012:CreateColorPicker({Name = string.char(0x53,(3*39),0x72,0x76,(139-34),(68+50),(56+55),(115-1),0x20,(32+35),(3*37),0x6C,(3*37),(146-32)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col._L0x0009) or Color3.fromRGB((122-42),(3*85),0x50), Callback = function(_P0x0018) pcall(function() _L0x0003.SetSurvivorColor(_P0x0018); _L0x0003.RefreshESPColors() end) end})
+_L0x0012:CreateColorPicker({Name = string.char((129-49),97,(51+57),0x6C,0x65,(135-19),(2*16),0x43,0x6F,0x6C,(171-60),(48+66)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.PL) or Color3.fromRGB((3*85),0xC8,0x50), Callback = function(_P0x0018) pcall(function() _L0x0003.SetPalletColor(_P0x0018); _L0x0003.RefreshESPColors() end) end})
+_L0x0012:CreateSection(string.char(0x47,0x65,(49+61),0x65,(83+31),(112-15),0x74,0x6F,0x72,0x20,0x45,(92-9),0x50,(2*16),0x43,(169-58),(2*54),(3*37),(206-92),(8+107)))
+_L0x0012:CreateColorPicker({Name = string.char((33+38),0x65,(106+4),0x20,(4+72),(144-33),(7*17),(2*16),0x28,0x30,(3*15),0x34,0x39,(69-32),(104-63)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.GL) or Color3.fromRGB((3*85),0,0), Callback = function(_P0x0018) pcall(function() _L0x0003.SetGenLowColor(_P0x0018) end) end})
+_L0x0012:CreateColorPicker({Name = string.char(0x47,0x65,(47+63),(8+24),0x50,(57+57),(3*37),0x67,0x72,0x65,0x73,(92+23),(2*16),(2*20),(147-94),(38+10),(37+8),(50+7),(9+48),(21+16),0x29), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.GM) or Color3.fromRGB((3*85),(308-53),0), Callback = function(_P0x0018) pcall(function() _L0x0003.SetGenMidColor(_P0x0018) end) end})
+_L0x0012:CreateColorPicker({Name = string.char(0x47,(176-75),(115-5),(2*16),(3+64),(174-63),0x6D,(2*56),0x6C,0x65,(171-55),0x65,0x20,(35+5),0x31,0x30,(2*24),0x25,(17+24)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.GH) or Color3.fromRGB(0,(3*85),0), Callback = function(_P0x0018) pcall(function() _L0x0003.SetGenHighColor(_P0x0018) end) end})
+_L0x0012:CreateSection(string.char(0x43,(148-34),0x6F,(5*23),0x73,0x68,0x61,(3*35),(130-16),(79-47),(14+53),(3*37),0x6C,0x6F,(144-30),(48+67)))
+_L0x0012:CreateColorPicker({Name = string.char((39+28),(133-19),0x6F,(182-67),0x73,0x68,(75+22),(3*35),(161-47),(127-95),(9+69),(3*37),0x72,(121-12),(116-19),0x6C), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.CR) or Color3.fromRGB(0xFF,0xFF,(3*85)), Callback = function(_P0x0018) pcall(function() _L0x0003.SetCrosshairColor(_P0x0018) end) end})
+_L0x0012:CreateColorPicker({Name = string.char(0x43,(63+51),0x6F,(68+47),(89+26),0x68,(164-67),(3*35),(103+11),(27+5),(33+43),0x6F,(142-43),(162-55),(112-11),(2*50)), Color = (_L0x0005 and _L0x0005.Col and _L0x0005.Col.CL) or Color3.fromRGB((3*85),0,0), Callback = function(_P0x0018) pcall(function() _L0x0003.SetCrosshairLockColor(_P0x0018) end) end})
+_L0x0012:CreateSection(string.char((147-80),(178-67),(141-31),(199-83),0x72,0x6F,0x6C,(98+17)))
+_L0x0012:CreateButton({Name = string.char((126-44),0x65,0x6A,0x6F,(200-95),0x6E,(2*16),(57+26),(173-72),(157-43),(199-81),(154-53),(2*57)), Callback = function() pcall(function() _L0x0003.Rejoin() end) end})
+_L0x0012:CreateButton({Name = string.char(0x52,(156-55),(123-21),0x72,0x65,(94+21),(30+74),0x20,(35+34),(37+46),(87-7),(128-96),(23+44),(181-70),0x6C,0x6F,(181-67),(162-47)), Callback = function() pcall(function() _L0x0003.RefreshESPColors() end) end})
+_L0x0012:CreateButton({Name = string.char((43+40),0x74,0x6F,(121-9),(49-17),0x41,(114-6),(2*54),(126-94),(53+17),(129-28),0x61,(2*58),(87+30),(212-98),(52+49),(5*23)), Callback = function() pcall(function() _L0x0003.StopAll() end) end})
+_L0x0012:CreateButton({Name = string.char((39+29),0x65,(17+98),(2*58),(2*57),(143-32),(186-65),(2*16),(2*36),(3*39),0x62), Callback = function() pcall(function() _L0x0003.StopAll(); _L0x0006:Destroy(); getgenv().UH = nil; getgenv().UHLoaded = nil end) end})
+print(string.char((98-37),0x3D,0x3D,0x20,(5*17),(70+6),(5+79),0x49,0x4D,0x41,(2*42),0x45,(112-80),(2*36),(120-35),(58+8),(71-39),0x56,(7*7),0x30,(2*23),(32+19),(2*16),(107-31),(60+19),(25+40),0x44,(162-93),(30+38),(2*16),0x3D,(60+1),(52+9)))
+SN(string.char((32+53),(2*54),0x74,0x69,(40+69),(89+8),(2*58),0x65,(89-57),(71+1),(3*39),0x62), string.char((38+48),(66-17),(2*24),(3+43),0x33,(117-85),(82-6),(3*37),0x61,(6+94),(12+89),(113-13),(3*11)), 3)
+end
+print(string.char(0x3D,(42+19),(73-12),(71-39),(17+59),(10+69),0x41,(41+27),(147-74),(81-3),(147-76),(104-72),(63+9),(22+63),(117-51),(113-81),(2*20),(2*39),(96-17),(2*16),(3*25),(133-64),0x59,(25+16),(6+26),(132-71),(131-70),(46+15)))
+LH()
+end
