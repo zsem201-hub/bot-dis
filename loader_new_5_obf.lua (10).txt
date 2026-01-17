@@ -1,0 +1,158 @@
+-- LuaGuard v5.1 [BF080BNC]
+do
+local _DgutGgo99Q = 0
+local _1I1Il11R = false
+local _oOooOOS = 0
+if getgenv().UHLoaded then
+pcall(function() getgenv().UH:Destroy() end)
+pcall(function() game:GetService(string.char(0x43,0x6F,((2*53)+8),(29+72),(24+47),0x75,(3*35))):FindFirstChild(string.char(((12+91)-(-(-21))),0x61,((104+64)-(147-100)),(0x2F+(12+43)),((89-13)+(87-58)),((-(-141))-(37+3)),(169-61),((126-65)+0x27))):Destroy() end)
+getgenv().UH, getgenv().UHCore, getgenv().UHLoaded = nil, nil, nil
+task.wait(0.3)
+end
+getgenv().UHLoaded = true
+print(string.char(((3*13)+(2*11)),((101-6)-(16+18)),0x3D,(0x17+9),0x55,((92+13)-(-(-29))),(0x76-0x22),((-(-98))-(120-95)),((3*33)-(1+21)),((154-98)+9),((2*10)+(-(-64))),(5+(37+27)),((84-32)-(84-64)),0x48,(57+28),((-(-46))+(113-93)),0x20,(133-57),0x4F,0x41,((2*50)-(-(-32))),((131-51)-0xB),((45-18)+0x37),(0x52-(-(-50))),(2*43),((2*30)-0xB),((5*17)-0x25),(126-80),0x33,0x20,((1+93)-0xB),0x54,(-(-65)),((13+5)+(49+15)),((-(-127))-(17+26)),0x49,0x4E,0x47,0x20,0x3D,0x3D,(33+28)))
+local _0x3CC2091 = {
+CU = string.char((13+91),((183-36)-0x1F),0x74,((-(-158))-(-(-46))),0x73,0x3A,0x2F,((-(-78))-0x1F),(0x3D+(97-46)),(99-2),0x73,((90-12)+(69-31)),0x65,0x62,(23+82),((-(-49))+0x3D),(0x3E-(45-29)),0x63,((34+105)-(-(-28))),(181-72),(6+(-(-41))),(-(-114)),0x61,(93+26),(3+44),((111+5)-(1+11)),(-(-82)),((187-34)-(30+13)),((131-29)-(119-84)),0x51,0x7A,((35+25)+(-(-25))),(49+64)),
+local _0x9EFBBCT = 0
+}
+local _xDwAaBe2, TS, PL, CG, SG = game:GetService(string.char((0x77-0x2F),0x74,((94-51)+(46+27)),0x70,0x53,((-(-37))+(48+16)),0x72,(40+78),((141-48)+(111-99)),(0x6D-(2+8)),((-(-88))+(4+9)))), game:GetService(string.char((0x7E-(57-15)),0x77,0x65,(171-70),0x6E,(38+45),((118-6)-(4+7)),(-(-114)),(0x8D-0x17),(-(-105)),(0x88-0x25),((105+3)-7))), game:GetService(string.char((9+71),((63+21)+(2+22)),((82-39)+0x36),(-(-121)),((20+9)+(2*36)),((2*60)-6),((105+14)-4))), game:GetService(string.char((0x63-(59-27)),(154-43),0x72,(0x76-0x11),((2*44)-0x11),((-(-125))-8),((4+28)+(21+52)))), game:GetService(string.char(((-(-24))+(-(-59))),(2*58),((2*69)-0x29),(0x15+(3*31)),(2*58),((-(-122))-(2+19)),0x72,((18-6)+(69-10)),(0x38+0x3D),(-(-105))))
+local _iUgBhVy3 = PL.LocalPlayer
+local function SN(_0x1AD3D6K, _x6_x7_k2_L, _n0_v5_v3_n2_M) pcall(function() SG:SetCore(string.char(0x53,(0x49+0x1C),(2*55),((-(-137))-0x25),((34+64)-0x14),((38+55)+(2+16)),(-(-116)),((-(-74))+(-(-31))),((-(-116))-0xE),((-(-130))-(-(-25))),((-(-121))-(8+14)),0x61,(0x7E-(9+1)),(3*35),((7*13)+0x14),(4+(88+18))), {Title = _0x1AD3D6K or string.char(0x55,((-(-64))+(36+8)),(2*58),0x69,((45-17)+(-(-81))),((3*11)+(45+19)),(0x9E-0x2A),(0x21+(2*34)),0x20,0x48,(0x6B+(56-46)),0x62), Text = _x6_x7_k2_L or "", Duration = _n0_v5_v3_n2_M or 5}) end) end
+local function LH()
+print(string.char((-(-61)),((93-28)-4),(-(-61)),((38+42)-(146-98)),(7+(3*23)),0x4F,(165-100),((73+34)-(3*13)),((-(-40))+(89-56)),((106+5)-(123-90)),((96+22)-(-(-47))),((89-69)+(2*6)),(95-23),((2*42)+1),(77-11),0x20,((64+46)-(7*7)),(0x47-(2*5)),0x3D))
+local _6SGZ5gU = nil
+local _0xA5E4324 = getgenv().UHCore
+local _QZMZHX722V = {}
+if not _0xA5E4324 then
+print(string.char((89-28),((7*7)+(2*6)),((133-99)+(-(-27))),(3+0x1D),0x4C,(0x67-0x18),((2*20)+(17+8)),((-(-39))+0x1D),(2+(-(-71))),0x4E,((2*43)-(94-79)),(-(-32)),(0x3E+5),((17+8)+(-(-54))),((-(-118))-(17+19)),(0x68-(5*7)),((46-21)+7),((-(-107))-0x25),0x52,0x4F,((-(-52))+(5*5)),0x20,0x55,((-(-67))+0xF),(61+15),((28+1)+3),0x3D,((2*6)+(33+16)),(2+(24+35))))
+local _ijnbs6583W = {}
+local _m1_m7_5, err = pcall(function() loadstring(game:HttpGet(_0x3CC2091.CU))() end)
+if not _m1_m7_5 then warn(string.char(0x43,(102+9),((3*25)+(66-27)),0x65,0x20,(-(-76)),(0x29+(116-46)),((-(-110))-(4+9)),(0x2D+(32+23)),0x20,(18+51),((-(-37))+(146-69)),((-(-154))-(7+33)),((141-6)-0x18),(2*57),((2*40)-(-(-22)))), err); SN(string.char(0x55,0x6C,((56+3)+(124-67)),(0x67+2),0x6D,(0x85-(20+16)),0x74,0x65,(2*16),0x48,(-(-117)),((2*68)-(36+2))), string.char(((2*54)-(-(-38))),((-(-118))-(3*7)),((207-75)-0x1B),((2*69)-(53-23)),(0x17+(2*39)),0x64,0x20,(204-88),(7+(2*52)),0x20,0x6C,(0x39+(-(-54))),0x61,(0x25+(-(-63))),((23+20)-(-(-11))),((6+23)+(-(-70))),(0x81-0x12),(-(-114)),0x65,0x21), 5); return end
+local _MAFGF80X = ""
+task.wait(0.5)
+_0xA5E4324 = getgenv().UHCore
+local _eLuIoNY = nil
+if not _0xA5E4324 then warn(string.char(((107-5)-(-(-35))),((23+42)+(135-89)),0x72,(0x7D-(63-39)),(0x48-0x28),((-(-123))-(107-94)),(8+103),0x74,(21+11),((-(-103))-1),((2*22)+0x43),((12+128)-0x17),((211-55)-(29+17)),(3+0x61))); SN(string.char(((51+41)-7),((-(-116))-8),0x74,((108-9)+6),(0x8F-(-(-34))),((5+43)+0x31),0x74,((150-46)-3),((2*6)+(-(-20))),((3*27)-9),0x75,((5*23)-0x11)), string.char((73-6),0x6F,0x72,0x65,(4+(-(-28))),(-(-110)),((-(-141))-0x1E),((3*39)-1),0x20,(128-26),((121-78)+(-(-68))),(123-6),((34-16)+(28+64)),((2*13)+(2*37)),(-(-33))), 5); return end
+end
+local _evwG5LKZ = nil
+print(string.char(0x3D,0x3D,((-(-77))-(-(-16))),(23+9),(144-77),0x4F,(0x5B-9),(24+45),((-(-57))-(5*5)),0x4C,0x4F,0x41,(2*34),0x45,((-(-41))+(23+4)),0x20,0x3D,0x3D,(3+0x3A)))
+task.wait(0.2)
+local _lskqa389910 = false
+local _Ooo0O6 = _0xA5E4324.Settings
+local _JDZQ7977
+local __w__f__i__o_11 = false
+local _m1_m7_5, err = pcall(function() _JDZQ7977 = loadstring(game:HttpGet(string.char(0x68,((2*16)+0x54),0x74,0x70,(0x6F+4),((5*5)+(24+9)),((2*40)-(-(-33))),0x2F,((2+57)+0x38),((80+74)-(7*7)),(55+59),0x69,(0xA6-(48+1)),((-(-147))-(-(-32))),((5+66)-(90-65)),(133-24),((210-88)-(53-32)),((-(-124))-(13+1)),(145-28),((109-24)-(134-96)),((5*19)+(16+3)),((198-87)-(1+13)),0x79,0x66,(3*35),((2*67)-(3*11)),((72+49)-(1+12)),0x64)))() end)
+if not _m1_m7_5 or not _JDZQ7977 then warn(string.char(0x52,(0x76-(98-77)),((89+59)-(59-32)),((23+72)+7),0x69,(0x79-0x14),((79+35)-6),(-(-100)),(-(-32)),((3*19)+(7+5)),(0x90-0x1E),(2*57),(177-66),((117-81)+(27+51)),((161-53)-(2*25))), err); SN(string.char((9+76),((-(-149))-(-(-41))),(84+32),0x69,0x6D,(0x7F-0x1E),((17+10)+(148-59)),(0x69-4),0x20,0x48,(3*39),(-(-98))), string.char((2*35),(-(-97)),0x69,0x6C,(55+46),((92+30)-(2*11)),0x20,((-(-20))+(19+77)),(39+72),(2*16),0x6C,((-(-55))+(24+32)),0x61,(0x88-(-(-36))),0x20,0x55,(56+17),0x21), 5); return end
+print(string.char(((98-24)-0xD),((103-21)-(3+18)),0x3D,0x20,(20+62),(88-23),(-(-89)),0x46,(-(-73)),(0x4F-0xA),(64+12),(0x54-(9+7)),(5+(3*9)),(0x35+(107-84)),((24+87)-(-(-32))),0x41,((56+54)-(-(-42))),((-(-45))+(2*12)),((85-15)-2),0x20,0x3D,((-(-21))+(109-69)),(91-30)))
+_JDZQ7977.Notify = function() end
+local __u__u__c_8 = _JDZQ7977:CreateWindow({Name = string.char(((-(-67))+(2*9)),((209-82)-0x13),(100+16),0x69,(-(-109)),((-(-109))-(-(-12))),0x74,((-(-55))+0x2E),(0x11+(3*5)),((66+9)-3),(-(-117)),((75-46)+0x45),(80-48),((3*35)-(-(-19))),0x31,0x30,0x20,0x7C,0x20,0x54,((3*53)-(2*24)),0x69,(0xE+(131-35)),(0x93-(81-37)),0x44,((119-3)-(7*7))), LoadingTitle = string.char((65+20),(-(-108)),0x74,((9+110)-(-(-14))),(0x7F-(61-43)),(0x56+(4+7)),(8+(161-53)),(-(-101)),((-(-28))+4),(0x1F+(39+2)),0x75,0x62), LoadingSubtitle = string.char(((2*14)+0x46),0x79,(0x35-0x15),((2*59)-(-(-34))),0x6F,((44+64)-3),0x6E,((-(-89))+(2*7)),((155-69)-(13+5)),((145-63)-(3*5))), ConfigurationSaving = {Enabled = false}, KeySystem = false})
+getgenv().UH = __u__u__c_8
+local _LTk1uTZL12 = {}
+local _qIkOaH9 = __u__u__c_8:CreateTab("ESP", 4483362458)
+_qIkOaH9:CreateSection(string.char(0x50,(-(-108)),0x61,0x79,((30+87)-(68-52)),0x72,((8+15)+9),0x45,(9+(-(-74))),0x50))
+local _FVII331713 = {}
+_qIkOaH9:CreateToggle({Name = string.char(((38+83)-(-(-46))),0x69,((-(-112))-4),(0x1A+(-(-82))),(131-30),0x72,((2*29)-(23+3)),((27+33)+9),((2*5)+(-(-73))),(2*40)), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartKillerESP() else _0xA5E4324.StopKillerESP() end end) end})
+_qIkOaH9:CreateToggle({Name = string.char((158-75),(-(-117)),(2*57),(2*59),(-(-105)),(0x53+0x23),(0x7C-(4+9)),0x72,0x20,0x45,0x53,(0x73-(-(-35)))), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartSurvivorESP() else _0xA5E4324.StopSurvivorESP() end end) end})
+_qIkOaH9:CreateSection(string.char(((-(-92))-(-(-13))),0x62,(-(-106)),(100+1),((-(-16))+(-(-83))),0x74,((2*37)-(90-48)),((120-86)+(-(-35))),0x53,0x50))
+_qIkOaH9:CreateToggle({Name = string.char(0x47,0x65,(0x4B+0x23),0x65,(0x83-0x11),0x61,(-(-116)),((-(-143))-(13+19)),(0xD+(-(-101))),(2+0x1E),(25+44),0x53,0x50), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartGenESP() else _0xA5E4324.StopGenESP() end end) end})
+_qIkOaH9:CreateToggle({Name = string.char(((115-92)+0x39),(0x11+(135-55)),((-(-107))+1),(125-17),((217-88)-(-(-28))),0x74,0x20,(0x52-(103-90)),0x53,((2*12)+(128-72))), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartPalletESP() else _0xA5E4324.StopPalletESP() end end) end})
+_qIkOaH9:CreateSection(string.char(((39-28)+(33+25)),0x53,((5*11)+(-(-25))),(0xB+(3*7)),(118-35),0x65,(66+50),((150-76)+(-(-42))),(0x25+(2*34)),((43+94)-(101-74)),((85-46)+(2*32)),((47+117)-(91-42))))
+_qIkOaH9:CreateSlider({Name = string.char((52+18),0x69,0x6C,(174-66),0x20,0x54,((-(-30))+(50+34)),(-(-97)),(-(-110)),((178-25)-(-(-38))),((86+5)+(3*7)),0x61,0x72,((177-34)-(-(-42))),((-(-32))+(-(-78))),(-(-99)),((54+26)+(24+17))), Range = {0, 1}, Increment = 0.1, CurrentValue = 0.85, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetESPFillTransparency(_OOoOooON) end) end})
+_qIkOaH9:CreateSlider({Name = string.char(0x4F,((37+36)+0x2C),0x74,0x6C,(0x7D-(85-65)),((192-57)-(-(-25))),0x65,(0x1C+4),((125-7)-0x22),(0x92-(-(-32))),0x61,0x6E,((-(-151))-(2*18)),(-(-112)),(0x5D+4),0x72,((28+79)-6),0x6E,((3*19)+(2*21)),(-(-121))), Range = {0, 1}, Increment = 0.1, CurrentValue = 0.5, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetESPOutlineTransparency(_OOoOooON) end) end})
+local _SQJB44814 = nil
+local _Z655ZgqA = __u__u__c_8:CreateTab(string.char(((47-26)+(2*31)),(3*39),0x72,(70+48),(3*35),((-(-131))-(48-35)),((2*62)-(5+8)),(0x6B+7)), 4483362458)
+_Z655ZgqA:CreateSection(string.char(((91-1)-(6+19)),((154-7)-(-(-30))),((-(-143))-(19+8)),(108+3),(-(-32)),0x41,0x63,((242-92)-(110-76)),0x69,0x6F,(0x14+(-(-90))),((208-78)-(3*5))))
+_Z655ZgqA:CreateToggle({Name = string.char(0x41,(6+(3*37)),((21+24)+0x47),((7*17)-8),((3*27)-0x31),0x47,0x65,0x6E,0x65,0x72,0x61,(0x99-(90-53)),((40+12)+0x3B),(182-68),(27+5),((3+25)+0x36),(0x1F+(49+21)),0x70,0x61,(75+30),(2*57)), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartAutoRepairGen() else _0xA5E4324.StopAutoRepairGen() end end) end})
+_Z655ZgqA:CreateToggle({Name = string.char(0x41,((23+41)+0x35),(22+94),0x6F,(0x26-6),(75-3),((-(-41))+(65-5)),0x61,0x6C,(-(-32)),((-(-115))-(90-59)),((170-97)+(118-90)),0x61,0x6D,0x6D,(0x3A+(3*13)),((-(-119))-3),((2*31)+(-(-39)))), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartAutoHeal() else _0xA5E4324.StopAutoHeal() end end) end})
+_Z655ZgqA:CreateSection(string.char(((114-20)-0x19),(2*55),0x76,0x69,0x72,((44+56)+0xB),0x6E,0x6D,(86+15),0x6E,((124-98)+(129-39))))
+_Z655ZgqA:CreateToggle({Name = string.char((104-26),((43+32)+(2*18)),0x20,(131-61),((38+89)-(-(-16))),((125+2)-0x18)), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartNoFog() else _0xA5E4324.StopNoFog() end end) end})
+_Z655ZgqA:CreateToggle({Name = string.char(((40+29)+1),(0x70+5),0x6C,((163-92)+(-(-37))),((32-15)+(164-83)),((252-94)-(-(-44))),0x69,0x67,0x68,((135-32)+(37-24))), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetFullbright(_OOoOooON) end) end})
+_Z655ZgqA:CreateSection(string.char((40+40),(9+(2*46)),(2*57),((114-77)+(106-41)),0x6F,(0x34+(134-72)),0x6D,(0x3B+(72-34)),(46+64),(3*33),((-(-15))+(116-30))))
+_Z655ZgqA:CreateToggle({Name = string.char(((76+16)-(-(-27))),0x6E,((53-3)+(63+3)),((-(-144))-(15+24)),(3*15),((117-85)+(109-65)),((-(-32))+0x41),0x67,((-(-24))+8),0x4D,0x6F,((119-28)+9),(0x23+(151-85))), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartAntiLag() else _0xA5E4324.StopAntiLag() end end) end})
+local _I1l1I1lB = __u__u__c_8:CreateTab(string.char(((-(-62))+0xD),(0x79-0x10),(0x73-7),0x6C,((-(-125))-0x18),(0x33+(62+1))), 4483362458)
+_I1l1I1lB:CreateSection(string.char(0x41,0x75,0x74,((-(-45))+(-(-66))),(2+30),(0x6D-(6+38)),(48+68),((236-76)-(2*22)),((38+58)+1),0x63,((193-66)-(76-56))))
+_I1l1I1lB:CreateToggle({Name = string.char(0x45,0x6E,0x61,((-(-30))+(-(-68))),(-(-108)),((10+18)+(34+39)),0x20,((88-32)+9),((113-90)+0x5E),0x74,((20+32)+(-(-59))),((-(-29))+3),0x41,((-(-35))+(3*27)),((-(-137))-(71-50)),((201-59)-0x2D),0x63,0x6B), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartAutoAttack() else _0xA5E4324.StopAutoAttack() end end) end})
+_I1l1I1lB:CreateSlider({Name = string.char(((15+27)+(-(-23))),((-(-70))+(-(-46))),0x74,0x61,0x63,(0x23+(79-7)),0x20,((197-88)-0x29),(0x83-(-(-26))),(5*23),0x74,((183-59)-(51-24)),0x6E,(115-16),0x65), Range = {5, (-(-30))}, Increment = 1, CurrentValue = (-(-15)), Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetAutoAttackDistance(_OOoOooON) end) end})
+_I1l1I1lB:CreateSlider({Name = string.char(0x41,((-(-161))-0x2D),(0x57+(24+5)),((94+20)-0x11),0x63,(151-44),((-(-33))-1),0x43,((68+92)-(57-8)),(3*37),0x6C,((141+4)-(62-17)),0x6F,(0x96-(24+7)),0x6E), Range = {0.5, 5}, Increment = 0.1, CurrentValue = 1.5, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetAutoAttackCooldown(_OOoOooON) end) end})
+_I1l1I1lB:CreateSection(string.char(0x50,((2*77)-(2*20)),0x6F,((33+44)+0x27),0x65,(3*33),0x74,(173-68),((23+25)+0x3F),(168-58)))
+_I1l1I1lB:CreateToggle({Name = string.char(((62-2)+5),((5*7)+(-(-75))),(62+54),((3*9)+(29+49)),0x2D,((-(-70))-4),((68-5)+(3*15)),((2*26)+(129-76)),((2*15)+0x50),0x64), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartAntiBlind() else _0xA5E4324.StopAntiBlind() end end) end})
+_I1l1I1lB:CreateSection(string.char(0x43,0x61,((-(-47))+(-(-62))),((170-65)-4),0x72,(0x73-(2*9)),(7+(5*5)),(-(-77)),0x6F,((220-70)-0x32),0x65))
+local __x__p__c__b_15 = 0
+_I1l1I1lB:CreateDropdown({Name = string.char(0x43,(0x93-(-(-50))),((191-32)-0x32),((2*75)-(-(-49))),0x72,0x61,0x20,((2*56)-(70-44)),0x69,(-(-101)),((5*29)-(2*13))), Options = _0xA5E4324.CameraModes or {string.char(((-(-98))-0x1E),0x65,0x66,((130-73)+0x28),(0x10+0x65),((-(-41))+0x43),((-(-84))+(-(-32)))), string.char(0x46,((2*76)-0x2F),0x72,((90-16)+(19+22)),0x74,0x50,0x65,((-(-123))-9),((205-76)-(81-67)),0x6F,(0x9B-(14+31))), string.char((0x83-0x2F),((121-13)-4),(0x25+(46+22)),(2+(14+98)),(0x94-(-(-48))),0x50,0x65,(2*57),((154-41)+2),(3*37),(0x89-(127-100)))}, CurrentOption = {string.char((140-72),0x65,(-(-102)),(0x16+(157-82)),((121+30)-0x22),((-(-21))+(3*29)),((2*43)+(2*15)))}, Callback = function(_0x7B31E1O) pcall(function() if _0x7B31E1O and #_0x7B31E1O > 0 then _0xA5E4324.SetCameraMode(_0x7B31E1O[1]) end end) end})
+local _6Sgq88C = __u__u__c_8:CreateTab(string.char(((49+57)-(89-63)),((162-100)+(2*23)),((-(-101))-4),((2*47)+(5+22)),(0x83-(-(-30))),(-(-114))), 4483362458)
+_6Sgq88C:CreateSection(string.char(0x53,0x70,0x65,0x65,0x64,((-(-16))+(-(-16))),(162-96),0x6F,0x6F,(5*23),((88+69)-0x29)))
+local _JHODFQ6148D = (2*8)
+pcall(function() if _0xA5E4324.WalkspeedSystem and _0xA5E4324.WalkspeedSystem.Spd then _JHODFQ6148D = _0xA5E4324.WalkspeedSystem.Spd end end)
+local _DSWP93E = _6Sgq88C:CreateLabel(string.char(((-(-96))-(44-31)),0x70,((-(-105))-4),((-(-80))+0x15),(-(-100)),0x3A,0x20) .. _JHODFQ6148D)
+_6Sgq88C:CreateSlider({Name = string.char(((-(-20))+0x3F),0x65,(-(-116)),(27+5),0x53,(0x45+0x2B),(16+85),0x65,(6+(2*47))), Range = {1, (80+20)}, Increment = 1, CurrentValue = _JHODFQ6148D, Callback = function(_OOoOooON)
+pcall(function()
+local _1I1lll16 = 0
+local _sstjv903F = _0xA5E4324.WalkspeedSystem:SetSpeed(_OOoOooON)
+if _sstjv903F then _DSWP93E:Set(string.char((50+33),(0x56+(4+22)),(-(-101)),((66+4)+(70-39)),(161-61),0x3A,(7+(5*5))) .. _sstjv903F) end
+end)
+end})
+_6Sgq88C:CreateButton({Name = string.char(((113-2)-(2*14)),((2*81)-(-(-50))),(134-33),0x65,0x64,(118-86),(1+(-(-44))),((-(-44))+9)), Callback = function()
+pcall(function()
+local _sstjv903F = _0xA5E4324.WalkspeedSystem:SetSpeed(_0xA5E4324.WalkspeedSystem.Spd - 5)
+if _sstjv903F then _DSWP93E:Set(string.char((0x72-(47-16)),(191-79),0x65,0x65,((10+2)+(2*44)),0x3A,(0x37-(-(-23)))) .. _sstjv903F) end
+end)
+end})
+_6Sgq88C:CreateButton({Name = string.char((51+32),0x70,0x65,0x65,0x64,(0x4C-(91-47)),0x2B,((140-93)+6)), Callback = function()
+pcall(function()
+local _sstjv903F = _0xA5E4324.WalkspeedSystem:SetSpeed(_0xA5E4324.WalkspeedSystem.Spd + 5)
+if _sstjv903F then _DSWP93E:Set(string.char((2+(-(-81))),0x70,(0x6D-8),(9+(68+24)),0x64,(33+25),((33+2)-3)) .. _sstjv903F) end
+end)
+local _0x09295617 = false
+end})
+_6Sgq88C:CreateToggle({Name = string.char(((4+74)-9),0x6E,((-(-126))-0x1D),0x62,0x6C,((73-52)+(50+30)),(2+(99-69)),((21+12)+0x32),((253-95)-(4+42)),((-(-142))-0x29),((-(-63))+(66-28)),0x64,0x20,(2+(10+54)),(0x86-0x17),0x6F,0x73,((3*49)-0x1F)), CurrentValue = false, Callback = function(_OOoOooON)
+pcall(function()
+if _OOoOooON then _0xA5E4324.WalkspeedSystem:Start() else _0xA5E4324.WalkspeedSystem:Stop() end
+end)
+end})
+local _QITH164418 = 0
+_6Sgq88C:CreateSection(string.char(((226-95)-0x2F),((5*23)-(2*7)),0x6C,(0x13+(7+75)),0x70,((-(-107))+4),(-(-114)),(-(-116))))
+local _O000OOoG = nil
+local _yIAeGFFKH = _6Sgq88C:CreateDropdown({Name = string.char(((175-66)-(18+8)),(29+72),0x6C,0x65,((2*52)-5),((55+99)-(-(-38))),0x20,(74+6),(175-67),0x61,((3*57)-(126-76)),0x65,0x72), Options = _0xA5E4324.GetPlayerList(), Callback = function(_0x7B31E1O) if _0x7B31E1O and #_0x7B31E1O > 0 then _O000OOoG = _0x7B31E1O[1] end end})
+_6Sgq88C:CreateButton({Name = string.char(((104+16)-0x26),(0x86-(-(-33))),(0x3D+0x29),((86-3)+0x1F),((120-43)+0x18),0x73,((18+119)-(-(-33))),(6+(94-68)),((-(-100))-(-(-20))),0x6C,0x61,0x79,((4+71)+(1+25)),0x72,0x20,(0x40+(-(-12))),(3*35),(194-79),((5*25)-9)), Callback = function() pcall(function() _yIAeGFFKH:Set(_0xA5E4324.GetPlayerList()) end) end})
+_6Sgq88C:CreateButton({Name = string.char((0x84-(-(-48))),((2*20)+0x3D),((25+104)-(66-45)),0x65,0x70,0x6F,0x72,0x74,0x20,(0x43+(1+48)),((71+4)+0x24),((10+15)+7),(3+0x4D),(0x6F-3),(132-35),(0x52+(30+9)),(0x8B-(-(-38))),((53+92)-(115-84))), Callback = function() pcall(function() if _O000OOoG then _0xA5E4324.TeleportTo(_O000OOoG) end end) end})
+local __i__h__f__l_19 = false
+local _z0_z4_f3_x9_I = __u__u__c_8:CreateTab("Aim", 4483362458)
+_z0_z4_f3_x9_I:CreateSection(string.char(((77-34)+0x29),0x61,((1+85)+(2*14)),0x67,((170-19)-(-(-50))),0x74,0x20,(0x85-0x32),0x65,((-(-82))+(-(-34))),((173-81)+(65-41)),(-(-105)),((180-52)-(-(-18))),0x67,((-(-52))+0x3F)))
+_z0_z4_f3_x9_I:CreateDropdown({Name = string.char((2*42),(0x37+(-(-42))),0x72,(-(-103)),((244-93)-(-(-50))),0x74,(0x1B+5),((75-38)+(21+24)),0x6F,0x6C,((-(-95))+6)), Options = {string.char(0x45,((-(-146))-(2*14)),((35+113)-(45+2)),(2*57),0x79,((-(-102))+9),0x6E,0x65), string.char((0x36+0x1D),((224-70)-0x25),0x72,(-(-118)),(34+71),(0x45+(7*7)),((-(-128))-0x11),(156-42)), string.char(0x4B,0x69,((48+40)+(-(-20))),0x6C,(-(-101)),((5*13)+(7*7)))}, CurrentOption = {string.char((99-30),((-(-34))+(-(-84))),((75+5)+(13+8)),(2*57),((254-88)-(-(-45))),((185-59)-0xF),0x6E,(0x37+(33+13)))}, Callback = function(_0x7B31E1O) pcall(function() if _0x7B31E1O and #_0x7B31E1O > 0 then _0xA5E4324.AimSystem:SetMode(_0x7B31E1O[1]) end end) end})
+_z0_z4_f3_x9_I:CreateDropdown({Name = string.char(((85+14)-(3*5)),(-(-97)),(-(-114)),((22+34)+0x2F),(-(-101)),(0x50+(105-69)),((35+5)-8),((48+68)-(131-95)),((210-87)-(50-24)),((2*10)+(2*47)),0x74), Options = _0xA5E4324.TargetParts or {string.char(0x48,((43+100)-(-(-42))),0x61,0x64), string.char((2*33),(0x5B+(2+18)),(2*50),(0x35+(154-86))), string.char(((13+25)+(-(-44))),((136-2)-0x1D),(7+(180-84)),(2*52),(0x90-0x1C),((-(-105))-(131-91)),((-(-137))-0x17),((-(-118))-9)), string.char(0x4C,((113+29)-0x29),0x66,0x74,0x41,(0x6D+5),(-(-109)))}, CurrentOption = {string.char(0x48,0x65,((189-79)-(-(-13))),(0x68-4))}, Callback = function(_0x7B31E1O) pcall(function() if _0x7B31E1O and #_0x7B31E1O > 0 then _0xA5E4324.AimSystem:SetPart(_0x7B31E1O[1]) end end) end})
+_z0_z4_f3_x9_I:CreateSection(string.char(0x41,0x75,(0x6F+5),((-(-26))+0x55),(0x14+(-(-12))),(-(-65)),((2*21)+(-(-63))),((59-18)+(-(-68)))))
+_z0_z4_f3_x9_I:CreateToggle({Name = string.char(0x45,(-(-110)),0x61,(-(-98)),(2*54),0x65,((-(-47))-(3*5)),(32+33),(87+30),0x74,0x6F,(0x36-(-(-22))),0x41,(3*35),0x6D), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.AimSystem:Start() else _0xA5E4324.AimSystem:Stop() end end) end})
+_z0_z4_f3_x9_I:CreateSlider({Name = string.char(((148-73)-(-(-10))),(-(-117)),(0x2D+0x47),0x6F,0x20,((48-14)+0x1F),((167-88)+0x1A),(141-32),0x20,((-(-85))-(81-64)),((81+58)-(14+20)),0x73,((8+92)+(5+11)),(52+45),0x6E,((-(-83))+(-(-16))),((246-100)-(-(-45)))), Range = {0xA, (230-80)}, Increment = 5, CurrentValue = (85-35), Callback = function(_OOoOooON) pcall(function() _0xA5E4324.AimSystem:SetDist(_OOoOooON) end) end})
+_z0_z4_f3_x9_I:CreateToggle({Name = string.char((82-6),((99+28)-(75-59)),0x63,((2+24)+0x51),(0x15+0xB),0x43,((67-9)+(-(-39))),(0x94-(34+5)),0x65,(65+49),0x61,0x20,(163-47),0x6F,(2*16),(-(-84)),0x61,0x72,0x67,(0x23+(50+16)),(-(-116))), CurrentValue = true, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.AimSystem:SetLock(_OOoOooON) end) end})
+_z0_z4_f3_x9_I:CreateSection(string.char((144-77),((2*14)+(60+26)),((-(-99))+(111-99)),(-(-115)),((193-77)-1),((27+7)+(-(-70))),((-(-116))-0x13),((126-40)+(85-66)),((-(-115))-1)))
+_z0_z4_f3_x9_I:CreateToggle({Name = string.char(0x45,((18+100)-8),((-(-142))-(3*15)),(2+(42+54)),0x6C,0x65,(0x31-(6+11)),0x43,0x72,((-(-104))+7),(0x98-(13+24)),(210-95),(0x84-0x1C),0x61,((-(-143))-0x26),(87+27)), CurrentValue = false, Callback = function(_OOoOooON) pcall(function() if _OOoOooON then _0xA5E4324.StartCrosshair() else _0xA5E4324.StopCrosshair() end end) end})
+_z0_z4_f3_x9_I:CreateDropdown({Name = string.char(0x43,((59+48)+7),(0x7D-(-(-14))),((3*7)+(-(-94))),((-(-103))+0xC),(0x6B-3),((-(-44))+(-(-53))),(3*35),0x72,((48+20)-(-(-36))),((-(-70))+0xD),((7+137)-(3+25)),((2*72)-0x17),0x6C,0x65), Options = _0xA5E4324.CrosshairTypes or {string.char(0x53,((7*19)-(-(-23))),(64+41),(2*56),0x65,((190-99)+0x17)), string.char(((-(-58))+0x1D),0x65,((5*25)-(5+23)),0x70,(0x83-0x14),(0x7D-(84-69))), "Dot"}, CurrentOption = {string.char(0x53,(0x98-(2*21)),((22+131)-(2*24)),(-(-112)),(24+77),(0x9F-(-(-45))))}, Callback = function(_0x7B31E1O) pcall(function() if _0x7B31E1O and #_0x7B31E1O > 0 then _0xA5E4324.CrosshairSystem:Style(_0x7B31E1O[1]) end end) end})
+_z0_z4_f3_x9_I:CreateSlider({Name = string.char(0x43,((102+31)-(64-45)),((-(-126))-(-(-15))),(87+28),0x73,((-(-129))-(53-28)),((154-37)-(14+6)),((50+87)-(2*16)),(2*57),((5+9)+(71-53)),0x53,((2*69)-0x21),(0x3B+0x3F),0x65), Range = {5, (46+4)}, Increment = 1, CurrentValue = (3+9), Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetCrosshairSize(_OOoOooON) end) end})
+_z0_z4_f3_x9_I:CreateSlider({Name = string.char((43+24),((2*38)+(-(-38))),0x6F,0x73,(5+(38+72)),(0x6B-3),((3*43)-(12+20)),((28+99)-(-(-22))),(73+41),((114-95)+0xD),(0x60-(118-93)),0x61,(2*56)), Range = {0, 0x1E}, Increment = 1, CurrentValue = 6, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetCrosshairGap(_OOoOooON) end) end})
+_z0_z4_f3_x9_I:CreateSlider({Name = string.char(0x43,(83+31),((131-8)-(2*6)),0x73,0x73,(80+24),((39+22)+(2*18)),((7+4)+(2*47)),0x72,(2*16),(0x70-(141-97)),((212-62)-(-(-39))),((-(-74))+(12+30)),((3*15)-(44-31)),0x53,0x69,((168-45)-1),(0x6B-6)), Range = {1, (7+8)}, Increment = 1, CurrentValue = 3, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetCrosshairDotSize(_OOoOooON) end) end})
+_z0_z4_f3_x9_I:CreateSlider({Name = string.char((88-21),((193-62)-(-(-17))),(0x2C+0x43),(210-95),((3*37)+4),((2*55)-6),0x61,(35+70),((137-99)+(-(-76))),((-(-25))+7),(-(-84)),0x68,0x69,0x63,((2*69)-0x1F),0x6E,(0x93-(54-8)),0x73,0x73), Range = {1, 0xA}, Increment = 1, CurrentValue = 2, Callback = function(_OOoOooON) pcall(function() _0xA5E4324.SetCrosshairThickness(_OOoOooON) end) end})
+local _O0oOOJ = __u__u__c_8:CreateTab(string.char((0x58-5),((-(-137))-0x24),0x74,((2*62)-8),((174-96)+(6+21)),0x6E,0x67,((3*43)-0xE)), 4483362458)
+_O0oOOJ:CreateSection(string.char(0x45,((51+21)+(71-60)),((70+52)-(49-7)),((21-9)+0x14),0x43,(3*37),((3*13)+(16+53)),(3+(147-39)),0x72,((57+7)+(3*17))))
+_O0oOOJ:CreateColorPicker({Name = string.char((0x76-0x2B),((121+18)-0x22),(53+55),(190-82),(0x5F+6),0x72,((2*41)-(46+4)),((163-80)-(57-41)),0x6F,0x6C,0x6F,0x72), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col._I1l1I1lB) or Color3.fromRGB((3*85),(36+44),(14+66)), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetKillerColor(_lllIllP); _0xA5E4324.RefreshESPColors() end) end})
+_O0oOOJ:CreateColorPicker({Name = string.char((-(-83)),(0x9C-(37+2)),((112-46)+(-(-48))),((2*56)+6),((-(-48))+(3*19)),(-(-118)),((-(-47))+0x40),0x72,0x20,((2*45)-(13+10)),0x6F,0x6C,(0x3B+(-(-52))),((122+18)-(32-6))), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col._Z655ZgqA) or Color3.fromRGB((135-55),(-(-255)),(2*40)), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetSurvivorColor(_lllIllP); _0xA5E4324.RefreshESPColors() end) end})
+_O0oOOJ:CreateColorPicker({Name = string.char(0x50,0x61,(76+32),((196-58)-(2*15)),0x65,((3*45)-(7+12)),(9+0x17),(0x16+(-(-45))),((2*68)-(10+15)),(17+91),0x6F,(0x8D-(21+6))), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.PL) or Color3.fromRGB((284-29),(144+56),(-(-80))), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetPalletColor(_lllIllP); _0xA5E4324.RefreshESPColors() end) end})
+_O0oOOJ:CreateSection(string.char(((41+78)-(19+29)),0x65,(2*55),((137-59)+0x17),((-(-115))-1),0x61,(-(-116)),0x6F,0x72,(3+(22+7)),((7+32)+(64-34)),((-(-59))+(2*12)),(65+15),(99-67),(146-79),0x6F,(33+75),(-(-111)),((3*53)-(-(-45))),(122-7)))
+_O0oOOJ:CreateColorPicker({Name = string.char(((3*39)-(2*23)),((147-19)-0x1B),(195-85),0x20,0x4C,(0x11+(2*47)),(0x10+(102+1)),(-(-32)),0x28,((2+9)+(68-31)),0x2D,0x34,(0xC+(140-95)),(0x3E-(15+10)),((81-65)+(5*5))), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.GL) or Color3.fromRGB((330-75),0,0), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetGenLowColor(_lllIllP) end) end})
+_O0oOOJ:CreateColorPicker({Name = string.char(0x47,0x65,((138-58)+(61-31)),(4+(-(-28))),(100-20),(2+112),0x6F,0x67,(0x18+(119-29)),((-(-90))+(4+7)),0x73,((-(-157))-(-(-42))),((122-69)-(3+18)),0x28,0x35,((2*7)+(2*17)),((-(-17))+(126-98)),((32-4)+(52-23)),0x39,((-(-80))-(-(-43))),((12+12)+(12+5))), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.GM) or Color3.fromRGB((-(-255)),(324-69),0), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetGenMidColor(_lllIllP) end) end})
+_O0oOOJ:CreateColorPicker({Name = string.char(0x47,0x65,0x6E,0x20,0x43,((-(-120))-9),((-(-114))-5),(41+71),(0x78-(10+2)),0x65,(-(-116)),0x65,0x20,(5+35),(40+9),((53+31)-(125-89)),((60-5)-7),(36+1),((109-62)-6)), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.GH) or Color3.fromRGB(0,(41+214),0), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetGenHighColor(_lllIllP) end) end})
+_O0oOOJ:CreateSection(string.char(0x43,(204-90),((76+75)-(120-80)),(-(-115)),(0x1D+(-(-86))),(2*52),(0x8E-(141-96)),(201-96),((202-61)-0x1B),0x20,0x43,(5+106),((206-78)-0x14),((-(-125))-0xE),(178-64),((2*5)+(27+78))))
+_O0oOOJ:CreateColorPicker({Name = string.char(((-(-55))+(5+7)),(0x54+(15+15)),0x6F,(0xA2-(-(-47))),0x73,0x68,((-(-128))-(-(-31))),(-(-105)),0x72,((35+10)-(8+5)),0x4E,0x6F,(2*57),0x6D,((-(-137))-(101-61)),((104+6)-2)), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.CR) or Color3.fromRGB((355-100),(205+50),(128+127)), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetCrosshairColor(_lllIllP) end) end})
+_O0oOOJ:CreateColorPicker({Name = string.char(((122-27)-(-(-28))),((107+8)-1),0x6F,((3*49)-0x20),0x73,0x68,((2*64)-(-(-31))),((196-74)-0x11),0x72,((74-8)-(20+14)),(-(-76)),((3*53)-(28+20)),((11+4)+(-(-84))),(195-88),0x65,((46-14)+(8+60))), Color = (_Ooo0O6 and _Ooo0O6.Col and _Ooo0O6.Col.CL) or Color3.fromRGB((28+227),0,0), Callback = function(_lllIllP) pcall(function() _0xA5E4324.SetCrosshairLockColor(_lllIllP) end) end})
+_O0oOOJ:CreateSection(string.char(0x43,((3*53)-(2*24)),(2*55),0x74,0x72,(3*37),0x6C,0x73))
+_O0oOOJ:CreateButton({Name = string.char(((127-85)+(-(-40))),0x65,(16+90),0x6F,((199-95)+1),0x6E,0x20,(-(-83)),((56+21)+(2*12)),(0x33+0x3F),0x76,0x65,0x72), Callback = function() pcall(function() _0xA5E4324.Rejoin() end) end})
+_O0oOOJ:CreateButton({Name = string.char(((11+25)+(-(-46))),(56+45),((2*54)-6),((-(-140))-(2*13)),0x65,((102-88)+0x65),0x68,((3*5)+(13+4)),0x45,0x53,((-(-130))-(-(-50))),((23+30)-(12+9)),((32+54)-(55-36)),(5+106),((236-95)-(-(-33))),0x6F,(178-64),((-(-66))+(15+34))), Callback = function() pcall(function() _0xA5E4324.RefreshESPColors() end) end})
+_O0oOOJ:CreateButton({Name = string.char(((23+82)-(-(-22))),((33+27)+(109-53)),((218-83)-(85-61)),((28-16)+(2*50)),((-(-73))-0x29),0x41,((2*79)-0x32),(178-70),(0x1D+3),(2*35),((-(-116))-(113-98)),(40+57),(9+0x6B),((43+92)-(2*9)),0x72,((172-34)-(-(-37))),0x73), Callback = function() pcall(function() _0xA5E4324.StopAll() end) end})
+_O0oOOJ:CreateButton({Name = string.char((9+59),((2*67)-(3*11)),((2*6)+0x67),0x74,((2*68)-(19+3)),0x6F,((199-31)-0x2F),(-(-32)),(0x4E-6),0x75,((47+60)-9)), Callback = function() pcall(function() _0xA5E4324.StopAll(); _JDZQ7977:Destroy(); getgenv().UH = nil; getgenv().UHLoaded = nil end) end})
+local _ESVS6191A = {}
+print(string.char((0x11+(71-27)),0x3D,((7*11)-(13+3)),((27+38)-(95-62)),(5*17),(131-55),((-(-125))-(-(-41))),((41+27)+5),(0x74-(-(-39))),0x41,((126-81)+(3*13)),(6+(3*21)),((61+14)-0x2B),(0x40+8),(109-24),((77+3)-(2*7)),0x20,(149-63),((107-82)+0x18),(0x38-8),(2*23),((79+10)-(15+23)),((2*36)-(3+37)),((-(-33))+(87-44)),0x4F,((3*11)+(115-83)),0x44,(5+(-(-64))),0x44,(1+(-(-31))),0x3D,(0x60-0x23),(43+18)))
+SN(string.char((5+(-(-80))),((-(-41))+(60+7)),0x74,(0x72-9),0x6D,((2+8)+(49+38)),((-(-59))+(-(-57))),0x65,0x20,(156-84),((3*23)+(-(-48))),(0x1F+(109-42))), string.char((-(-86)),(0x14+0x1D),((11+4)+(100-67)),((5+38)+3),((54-41)+(23+15)),(0x3B-(3*9)),0x4C,(202-91),((-(-102))-5),(-(-100)),((-(-45))+(40+16)),0x64,0x21), 3)
+end
+local _igyxg5031B = nil
+print(string.char(((139-35)-0x2B),((-(-20))+(112-71)),0x3D,(-(-32)),((107-64)+0x21),(0x80-(51-2)),(56+9),((24+9)+0x23),((7*7)+0x18),(121-43),(118-47),0x20,(7+(85-20)),(0x84-0x2F),((89-36)+(23-10)),((124-68)-(2*12)),0x28,(35+43),0x4F,((15+45)-(-(-28))),(0x64-0x19),0x45,((-(-12))+0x4D),(-(-41)),(-(-32)),0x3D,0x3D,((22+83)-(2*22))))
+LH()
+end
